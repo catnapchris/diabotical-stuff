@@ -1,5 +1,5 @@
 # scripts
-Collection of scripts I've made/will make to simplify certain actions in Diabotical.
+Collection of scripts to simplify certain actions in Diabotical.
 
 ## cpma.cfg
 Descrition: Executes all commands used to enable cpma/time trial/race movement physics.
