@@ -4,18 +4,7 @@ Type: Rocket Jump
 Difficulty: Intermediate
 
 
-[x] GEOMETRY
-
-[x] FUNCTIONALITY
-
-~~[] PICKUPS~~
-
-[x] ART PASS
-
-[] TESTING
+*screenshots go here*
 
 
-MAP SCREENSHOTS
-
-
-MAP VIDEO
+*video goes here*
