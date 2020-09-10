@@ -3,6 +3,8 @@ Type: Rocket Jump
 
 Difficulty: Intermediate
 
+Author: oohboy
+
 
 *screenshots go here*
 
