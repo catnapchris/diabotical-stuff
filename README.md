@@ -1,2 +1,2 @@
 # diabotical-stuff
-Diabotical maps and huds and stuff.
+Diabotical maps and scripts and stuff.
