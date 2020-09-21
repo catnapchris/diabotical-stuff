@@ -20,4 +20,4 @@ Description: Plays through the intro camera shot.
 
 Installation: Place into *User/AppData/Roaming/Diabotical*. You can also use the console command */homedir* to automatically open this folder.
 
-Usage: */exec playcam* in the console.
+Usage: */exec playcam* in the console. If you want the camera to move slower/faster, change the number after */dolly*.
